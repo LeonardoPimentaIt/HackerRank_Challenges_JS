@@ -21,7 +21,7 @@ Repositório com o objetivo de disponibilizar as **soluções** realizadas em **
 - [x] <a href="#plus-minus">Plus Minus</a>
 - [x] Staircase
 - [x] Mini Max Sum
-- [x]<a href="#birthday-cake-candles">Birthday Cake Candles</a>
+- [x] <a href="#birthday-cake-candles">Birthday Cake Candles</a>
 - [x] <a href="#time-converter">Time Converter</a>
 
 ## Tecnologias utilizadas
