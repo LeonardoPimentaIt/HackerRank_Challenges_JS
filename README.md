@@ -7,18 +7,18 @@ Repositório com o objetivo de disponibilizar as soluções realizadas em JavaSc
 ## Índice
 
 - <a href="#desafios-realizados">Desafios Realizados<a>
-- <a>Tecnologias Utilizadas</a>
-- <a>Códigos</a>
-- <a>Autor</a>
+- <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>
+- <a href="#códigos">Códigos</a>
+- <a href="#autor">Autor</a>
 
 ## Desafios Realizados
 
-- [x] Plus Minus<br>
-- [x] Time Converter<br>
-- [x] Star Case<br>
-- [x] Min Max Sum<br>
-- [x] Candle<br>
-- [x] Diagonal Calculate<br>
+- [x] <a href="#plus-minus">Plus Minus</a>
+- [x] <a href="#time-converter">Time Converter</a>
+- [x] Star Case
+- [x] Min Max Sum
+- [x] Candle
+- [x] Diagonal Calculate
 
 ## Tecnologias utilizadas
 
