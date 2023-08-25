@@ -6,17 +6,10 @@ Repositório com o objetivo de disponibilizar as soluções realizadas em JavaSc
 
 ## Índice
 
-- <a href="#-desafios">Desafios Realizados<a>
+- <a href="#desafios-realizados">Desafios Realizados<a>
 - <a>Tecnologias Utilizadas</a>
-- <a>Autor</a>
 - <a>Códigos</a>
-
-## Autor
-
-Leonardo Correia Pimenta<br>
-Email: leonardo.pimenta.it@gmail.com<br>
-
-[Linkedin](https://www.linkedin.com/in/leonardo-pimenta-a2268bb9/)
+- <a>Autor</a>
 
 ## Desafios Realizados
 
@@ -112,3 +105,10 @@ function timeConversion(s) {
 
 console.log(timeConversion("13:10:54AM"));
 ```
+
+## Autor
+
+Leonardo Correia Pimenta<br>
+📧 leonardo.pimenta.it@gmail.com<br>
+
+[Linkedin](https://www.linkedin.com/in/leonardo-pimenta-a2268bb9/)
