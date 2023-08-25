@@ -15,9 +15,9 @@ Repositório com o objetivo de disponibilizar as soluções realizadas em JavaSc
 
 - [x] <a href="#plus-minus">Plus Minus</a>
 - [x] <a href="#time-converter">Time Converter</a>
-- [x] Star Case
-- [x] Min Max Sum
-- [x] Candle
+- [x] Staircase
+- [x] Mini Max Sum
+- [x] Birthday Cake Candles
 - [x] Diagonal Calculate
 
 ## Tecnologias utilizadas
