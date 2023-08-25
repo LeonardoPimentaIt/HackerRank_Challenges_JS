@@ -6,9 +6,17 @@ Repositório com o objetivo de disponibilizar as soluções realizadas em JavaSc
 
 ## Índice
 
-- <a href="#-desafios-realizados">Desafios realizados<a>
-- <a>Tecnologias utilizadas</a>
+- <a href="#-desafios">Desafios Realizados<a>
+- <a>Tecnologias Utilizadas</a>
 - <a>Autor</a>
+- <a>Códigos</a>
+
+## Autor
+
+Leonardo Correia Pimenta<br>
+Email: leonardo.pimenta.it@gmail.com<br>
+
+[Linkedin](https://www.linkedin.com/in/leonardo-pimenta-a2268bb9/)
 
 ## Desafios Realizados
 
@@ -22,13 +30,6 @@ Repositório com o objetivo de disponibilizar as soluções realizadas em JavaSc
 ## Tecnologias utilizadas
 
 - [x] JavaScript
-
-## Autor
-
-Leonardo Correia Pimenta<br>
-Email: leonardo.pimenta.it@gmail.com<br>
-
-[Linkedin](https://www.linkedin.com/in/leonardo-pimenta-a2268bb9/)
 
 ## Códigos
 
