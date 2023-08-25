@@ -1,6 +1,6 @@
-# HackerRank Challenges with JS
-
 ![leonardo.correia.title](./assets/leonardo.correia.title.jpg)
+
+# HackerRank Challenges with JS
 
 Repositório com o objetivo de disponibilizar as soluções realizadas em JavaScript para os desafios do HackerRank.
 
