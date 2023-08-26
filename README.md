@@ -1,4 +1,4 @@
-![leonardo.correia.title](./assets/leonardo.correia.title.jpg)
+![leonardo.correia.title](./assets/project_banner.png)
 
 # HackerRank Challenges with JS
 
