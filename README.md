@@ -1,34 +1,34 @@
-![leonardo.correia.title](./assets/project_banner.png)
+![project_banner](./assets/project_banner.png)
 
-# HackerRank Challenges with JS
+# HackerRank Challenges with JavaScript
 
-Repositório com o objetivo de disponibilizar as **soluções** realizadas em **JavaScript** para os desafios do HackerRank.
+Repository with the objective of making available the solutions made by me in JavaScript for the challenges of HackerRank.
 
-## Índice
+## Index
 
-- <a href="#desafios-realizados">Desafios realizados<a>
-- <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
-- <a href="#códigos">Códigos</a>
-- <a href="#dados-do-autor">Dados do autor</a>
+- <a href="#completed-challenges">Completed challenges<a>
+- <a href="#technologies">Technologies</a>
+- <a href="#codes">Codes</a>
+- <a href="#author">Author</a>
 
-## Desafios Realizados
+## Completed challenges
 
 - [x] Solve Me First
 - [x] Simple Array Sum
 - [x] Compare the Triplets
 - [x] A Very Big Sum
-- [x] Diagonal Difference
+- [x] <a href="#diagonal-difference">Diagonal Difference</a>
 - [x] <a href="#plus-minus">Plus Minus</a>
-- [x] Staircase
-- [x] Mini Max Sum
+- [x] <a href="#staircase">Staircase</a>
+- [x] <a href="#mini-max-sum">Mini Max Sum</a>
 - [x] <a href="#birthday-cake-candles">Birthday Cake Candles</a>
 - [x] <a href="#time-converter">Time Converter</a>
 
-## Tecnologias utilizadas
+## Technologies
 
 - [x] <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a>
 
-## Códigos
+## Codes
 
 ### Diagonal Difference
 
@@ -251,16 +251,16 @@ function timeConversion(s) {
 console.log(timeConversion("13:10:54AM"));
 ```
 
-## Dados do Autor
+## Author
 
-### Nome
+### Name
 
 Leonardo Correia Pimenta
 
-### Contato
+### Contact
 
 📧 leonardo.pimenta.it@gmail.com
 
-### Redes Sociais
+### Social media
 
 [Linkedin](https://www.linkedin.com/in/leonardo-pimenta-a2268bb9/)
